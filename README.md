@@ -1,6 +1,6 @@
 ## Visualising objects in three dimensional space using particles
 
-![Example](https://www.dropbox.com/s/w3jhqolrxy9j6z0/Screen%20Shot%202017-12-11%20at%209.43.22%20PM.png)
+![Example](https://github.com/ruidan/Graphics-VisualizationFinalProject/blob/master/image.png)
 
 ### Usage Instruction
 * Naigate to the folder and start Python's SimpleHTTPSever
