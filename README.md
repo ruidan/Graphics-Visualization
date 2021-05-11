@@ -12,7 +12,7 @@
 	localhost:8000
 ```
 
-There is a red menu button on the top left of the webpage to toggle the visibility of our presentation materials.
+There is a red menu button on the top left of the webpage to toggle the visibility of our presentation materials
 
 #### Triggers for interactions
 * To switch between different objects
