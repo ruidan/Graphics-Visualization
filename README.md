@@ -27,7 +27,7 @@ There is a red menu button on the top left of the webpage to toggle the visibili
 ```
 	Shift+E
 ```
-* To subject the particles in the object to gravity then return to normal
+* To subject the particles in the object to gravity then return to normal。
 ```
 	Shift+D
 ```
